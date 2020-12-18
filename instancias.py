@@ -14,3 +14,4 @@ if __name__ == "__main__":
     coord_1= coordenada(3,30)
     coord_2= coordenada(4, 8)
     print(coord_1.distancia(coord_2))
+    print(isinstance(coord_2, coordenada))
